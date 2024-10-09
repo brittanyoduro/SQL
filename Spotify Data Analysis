@@ -1,4 +1,4 @@
-This project utlizes the following Spotify dataset:
+This project utilizes the following Spotify dataset:
 
 CREATE TABLE BIT_DB.Spotifydata (
 id integer PRIMARY KEY,
